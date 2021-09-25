@@ -12,3 +12,5 @@ If you like what I do, please consider becoming a sponsor 🤑: https://github.c
 - 💬 Ask me about blockchain on .NET, Angular, APIs, TypeScript and more.
 - 💌 How to reach me, check my [City Chain Identity](https://identity.city-chain.org/view/P9ppftn667PgXwqCKNaUVnD8BS8rjmkcUo) and [Keybase Identity](https://keybase.io/sondreb).
 - ⚡ Fun fact: I do a little bit of everything, including building a new city  [Liberstad](https://www.liberstad.com)🏡.
+
+![SondreB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondreb&count_private=true&theme=dark)
