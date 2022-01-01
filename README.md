@@ -2,9 +2,9 @@
 
 ### My name is ✨**Sondre**✨ and I have been coding since I was a kid.
 
-Most of my spare time I dedicate to working on open source projects that help propel humanity and the society forward in a positive direction ✌️.
+I am currently working 100% on free open source projects (2022). Please consider becoming a sponsor: https://github.com/sponsors/sondreb
 
-If you like what I do, please consider becoming a sponsor 🤑: https://github.com/sponsors/sondreb
+Most of my time I dedicate to working on free open source projects that help propel humanity and the society forward in a positive direction ✌️.
 
 - 🔨 I’m currently working on **CoinVault**, **Blockcore**, **Smart City Platform** and the decentralized Identity registry.
 - 👯 I’m looking to collaborate on [City Chain](https://www.city-chain.org/) and [Blockcore](https://www.blockcore.net/).
