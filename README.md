@@ -13,4 +13,4 @@ Most of my time I dedicate to working on free open source projects that help pro
 - 💌 How to reach me, check my [website](https://www.sondreb.com) and [Keybase Identity](https://keybase.io/sondreb).
 - ⚡ Fun fact: I do a little bit of everything, including building a new city  [Liberstad](https://www.liberstad.com)🏡.
 
-[![SondreB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondreb&count_private=true&theme=dark)](#)
+[![SondreB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondreb&count_private=true&theme=dark&include_all_commits=true)](#)
