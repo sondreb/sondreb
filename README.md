@@ -1,6 +1,6 @@
 # Hello, hei! 💛🖤
 
-### My name is ✨**Sondre**✨ and I have been coding since I was a kid.
+### My name is ✨**Sondre**✨ and I do what I love: coding!
 
 I am currently working 100% on free open source projects (2022). Please consider becoming a sponsor: https://github.com/sponsors/sondreb
 
