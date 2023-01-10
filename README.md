@@ -4,7 +4,7 @@
 
 I am currently working 20% on free open source projects, after 100% throughout the year 2022. Please consider becoming a GitHub sponsor: https://github.com/sponsors/sondreb
 
-You can also send me tips using ⚡Lightning (BTC): https://ln.tips/@sondreb or `sondreb@ln.tips`
+You can also send me tips using ⚡Lightning (BTC): https://lntxbot.com/@sondreb or `sondreb@lntxbot.com`
 
 Most of my time I dedicate to working on free open source projects that help propel humanity and the society forward in a positive direction ✌️.
 
