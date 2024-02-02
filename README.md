@@ -10,10 +10,12 @@ You can also send me tips using ⚡Lightning (BTC): https://ln.tips/@sondreb or 
 
 Most of my time I dedicate to working on free open source projects that help propel humanity and the society forward in a positive direction ✌️.
 
-- 🔨 I’m currently working on **Blockcore**, **CoinVault**, **Free City Platform** and **Web5** technologies.
-- 👯 I’m looking to collaborate on [City Chain](https://www.city-chain.org/), [Blockcore](https://www.blockcore.net/) and  [Free City Platform](https://freeplatform.city/).
-- 💬 Ask me about blockchain on .NET, JavaScript, TypeScript, Angular, APIs, Web3, Web5 and more.
-- 💌 How to reach me, check footer on my [website](https://www.sondreb.com).
-- ⚡ Fun fact: I do a little bit of everything, including building a new city [Liberstad](https://www.liberstad.com)🏡.
+- 🔨 I’m currently working on **[Blockcore](https://www.blockcore.net/)**, **[CoinVault](https://www.coinvault.io/)**, **[Free City Platform](https://freeplatform.city/)**, **[City Chain](https://www.city-chain.org/)**, **Web3** and **Web5** technologies.
+
+My years of experience contains stuff that don't exists anymore. What matters most is the ability to adapt and learn new skills. Here is my current list of preferred technologies (languages, software, technology, patterns) that I enjoy working lately:
+
+### JavaScript, TypeScript, Progressive Web Apps, DevOps, DevEx, GitHub (Actions), Bitcoin, Ethereum, Web3, Web5, Nostr, Node.js, Docker, C#, .NET, ASP.NET, Kubernetes, MongoDB, RocksDB, Git, GitHub, Visual Studio Code, Azure (Cloud), Tauri, Electron, Cordova. ###
+
+Fun fact: I do a little bit of everything, including building a new city [Liberstad](https://www.liberstad.com)🏡.
 
 [![SondreB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondreb&count_private=true&theme=dark&include_all_commits=true)](#)
