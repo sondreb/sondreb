@@ -10,7 +10,7 @@ You can also send me tips using ⚡Lightning (BTC): https://ln.tips/@sondreb or 
 
 Most of my time I dedicate to working on free open source projects that help propel humanity and the society forward in a positive direction ✌️.
 
-- 🔨 I’m currently working on **[Ariton](https://ariton.app/)**, **[Blockcore](https://www.blockcore.net/)**, **[Free City Platform](https://freeplatform.city/)**, **[City Chain](https://www.city-chain.org/)**, **Web3** and **Web5** technologies.
+- 🔨 I’m currently working on **[Ariton](https://ariton.app/)**, **[Blockcore](https://www.blockcore.net/)**, **[City Chain](https://www.city-chain.org/)**, **Web3** and **Web5** technologies.
 
 My years of experience contains stuff that don't exists anymore. What matters most is the ability to adapt and learn new skills. Here is my current list of preferred technologies (languages, software, technology, patterns) that I enjoy working lately:
 
