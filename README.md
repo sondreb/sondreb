@@ -21,3 +21,5 @@ My years of experience contains stuff that don't exists anymore. What matters mo
 Fun fact: I do a little bit of everything, including building a new city [Liberstad](https://www.liberstad.com)🏡.
 
 [![SondreB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondreb&count_private=true&theme=dark&include_all_commits=true)](#)
+
+[![SondreB's GitHub 2024](git-wrapped-sondreb-2024.png)](#)
