@@ -1,4 +1,4 @@
-# Hello, hei! 💛🖤
+# Ćao, hello, hei! 💛🖤
 
 ### My name is ✨**Sondre**✨ and I do what I love: coding!
 
