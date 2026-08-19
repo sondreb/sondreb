@@ -1,21 +1,16 @@
-# Ćao, hello, hei! 💛🖤
+# Ćao, hello, hei.
 
-### My name is ✨**Sondre**✨ and I do what I love: coding!
+I'm **Sondre**. I build AI-native products and ship them as open source.
 
-Try some of my apps: https://brainbox.no
+Right now that's [Nostria](https://www.nostria.app) (social without the noise) and [PolyTalk](https://polytalk.me) (the basics of every language).
 
-Check my website if you want to learn more: https://sondreb.com
+I work at the point where LLMs become real software: agents, workflows, and apps people actually use.
 
-My goal is to be able to work full time on open source software, and I'm looking for job opportunities, [sponsors](https://github.com/sponsors/sondreb) and supporters that can help me achieve this goal.
+**Building**
+- [Nostria](https://www.nostria.app) — social network on open protocols, AI in the product
+- [PolyTalk](https://polytalk.me) — language learning, simple and wide
 
-You can also send me tips using ⚡Lightning (BTC): `sondreb@npub.cash`
+**Stack I actually use**
+TypeScript · Node.js · Python · C# / .NET · PWAs · Tauri · Docker · GitHub Actions
 
-Most of my time I dedicate to working on free open source projects that help propel humanity and the society forward in a positive direction ✌️.
-
-- 🔨 I’m currently working on **[Nostria](https://www.nostria.app/)**, **[Angor](https://angor.io/)**, **[Blockcore](https://www.blockcore.net/)**, **[Brainbox](https://brainbox.no/)**, **[Ariton](https://ariton.app/)** (on-hold).
-
-My years of experience contains stuff that don't exists anymore. What matters most is the ability to adapt and learn new skills. Here is my current list of preferred technologies (languages, software, technology, patterns) that I enjoy working lately:
-
-### JavaScript, TypeScript, Progressive Web Apps, DevOps, DevEx, GitHub (Actions), Bitcoin, Nostr, Node.js, Docker, C#, .NET, ASP.NET, Kubernetes, MongoDB, RocksDB, Git, GitHub, Visual Studio Code, Azure (Cloud), Tauri, Electron, Cordova. ###
-
-Fun fact: I do a little bit of everything, including building a new city [Liberstad](https://www.liberstad.com)🏡.
+More on [sondreb.com](https://sondreb.com) · [sponsor the open source](https://github.com/sponsors/sondreb)
